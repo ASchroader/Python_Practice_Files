@@ -32,9 +32,9 @@ except ValueError:
 print(safe_divide(numerator,denominator))
 
 import math
-""" square_root finds the square root of a number while handeling ValueErrors """
 
 def square_root(number1):
+    """ square_root finds the square root of a number while handeling ValueErrors """
     try:
         result = math.sqrt(number1)
         return(result)
