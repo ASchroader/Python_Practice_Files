@@ -1,3 +1,4 @@
 # Python_Practice_Files
 Practice files from Python trainings where I did more, different, interesting things than base.  
-First file will be a function to take in a string & substring, make them lowercase, then count the occurences of the substring in the string.  
+Count_substring is a function to take in a string & substring, make them lowercase, then count the occurences of the substring in the string.  
+Basic_exception_handling adds additional excepts to the safe_division practice code and also adds handling to the input boxes to make sure only integers are passed in. 
